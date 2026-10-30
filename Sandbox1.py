@@ -55,4 +55,3 @@ if fight==True:
 
 if Turn==True:
  Act = int(input("Attack 1 - Run 2"))
-
